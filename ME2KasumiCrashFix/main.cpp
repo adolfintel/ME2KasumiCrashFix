@@ -52,7 +52,7 @@ DWORD WINAPI Start(LPVOID lpParam)
 	for (int i = 0; i < patternLength; i++) {
 		*ptr++ = fixed[i];
 	}
-	VirtualProtect((void*)target, patternLength, originalProtection, NULL); //horrible, horrible hack for code that spans across multiple pages
+	VirtualProtect((void*)target, patternLength, originalProtection, NULL);
 	printf("Patched!");
 	return 0;
 }
