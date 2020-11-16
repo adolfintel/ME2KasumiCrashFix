@@ -6,14 +6,17 @@ For use with Erik-JS's [Binkw32 proxy DLL](https://github.com/Erik-JS/masseffect
 
 __Consider this an EXPERIMENTAL fix: I'm currently doing a complete run of the game on Windows 10 to see if it causes problems elsewhere__
 
-It should work with all versions of the game: Steam, Origin, Disc and "DRM-free" 😏
+It should work with all versions of the game: Steam, Origin, Disc and "DRM-free 😏".
 
 ## Installation
 * Install [Binkw32 proxy DLL](https://github.com/Erik-JS/masseffect-binkw32) (follow his instructions)
-* Download ME2KasumiCrashFix.asi from the [releases](https://github.com/adolfintel/ME2KasumiCrashFix/releases) on this page
+* Download ME2KasumiCrashFix.asi from [here](https://downloads.fdossena.com/geth.php?r=kasumi-asi) on this page
 * Copy ME2KasumiCrashFix.asi to the game's Binaries folder, next to MassEffect2.exe
 
 If you run into issues, report them here or send an email to [info@fdossena.com](mailto:info@fdossena.com)
+
+## How it works
+This article explains how this fix was made and how it works: [link](https://fdossena.com/?p=kasumifix/i.md)
 
 ## License
 Copyright (C) 2020 Federico Dossena
@@ -26,5 +29,3 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 This program is not made or supported by EA or Bioware.  
 Mass Effect is a trademark of EA International (Studio and Publishing) Ltd.
-
-
