@@ -10,7 +10,7 @@ It should work with all versions of the game: Steam, Origin, Disc and "DRM-free 
 
 ## Installation
 * Install [Binkw32 proxy DLL](https://github.com/Erik-JS/masseffect-binkw32) (follow his instructions)
-* Download ME2KasumiCrashFix.asi from [here](https://downloads.fdossena.com/geth.php?r=kasumi-asi) on this page
+* Download ME2KasumiCrashFix.asi from [here](https://downloads.fdossena.com/geth.php?r=kasumi-asi)
 * In the Binaries folder of the game, next to MassEffect2.exe, make a new folder called asi and enter it
 * Copy ME2KasumiCrashFix.asi into this folder
 
