@@ -2,9 +2,7 @@
 
 This ASI mod fixes a crash that occurs on modern systems at the end of Kasumi's loyalty mission, when returning to Normandy after defeating the boss.
 
-For use with Erik-JS's [Binkw32 proxy DLL](https://github.com/Erik-JS/masseffect-binkw32)
-
-__Consider this an EXPERIMENTAL fix: I'm currently doing a complete run of the game on Windows 10 to see if it causes problems elsewhere__
+__For use with Erik-JS's [Binkw32 proxy DLL](https://github.com/Erik-JS/masseffect-binkw32)__
 
 It should work with all versions of the game: Steam, Origin, Disc and "DRM-free 😏".
 
